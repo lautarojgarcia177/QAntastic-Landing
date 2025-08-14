@@ -8560,7 +8560,12 @@ fieldset:disabled .btn {
   background-attachment: fixed !important;
 }
 .bg-gradient-primary {
-  background: linear-gradient(180deg, #7dcf0778, #000000 50%, #00000000) !important;
+  background: linear-gradient(
+    180deg,
+    #7dcf0778,
+    #000000 50%,
+    #00000000
+  ) !important;
 }
 .bg-gradient-primary-translucent {
   background: linear-gradient(
